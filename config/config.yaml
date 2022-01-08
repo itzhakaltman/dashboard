@@ -1,0 +1,10 @@
+APP:
+  ENVIRONMENT: dev
+  DEBUG: True #False
+
+DATABASE:
+  USERNAME: user
+  PASSWORD: password
+  HOST: 10.0.0.10
+  PORT: 5432
+  DB: dashboard
